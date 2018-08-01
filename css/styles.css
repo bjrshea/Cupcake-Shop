@@ -1,0 +1,39 @@
+img {
+  width: 50%;
+  height: 500px;
+}
+
+ol {
+  line-height: 2.5;
+}
+
+ul {
+  font-style: oblique;
+}
+
+body {
+  font-family: helvetica;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: #f442a4;
+  text-align: center;
+}
+
+.middle {
+  text-align: center;
+}
+
+h4 {
+  font-family: cursive;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-weight: bolder;
+}
